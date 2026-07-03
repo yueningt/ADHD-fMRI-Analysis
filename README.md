@@ -3,7 +3,7 @@ A Convolutional Neural Network (CNN) to analyze fMRIs of control and ADHD subjec
 
 ## The Data
 
-The dataset used in this project is publicly available on OpenNeuro. It investigates the neural mechanisms of working memory and reward processing in children diagnosed with Attention Deficit Hyperactivity Disorder (ADHD) compared to typically developing controls.
+The dataset used in this project is publicly available on OpenNeuro. It investigates the neural mechanisms of working memory and reward processing in children diagnosed with Attention Deficit Hyperactivity Disorder (ADHD) compared to typically developing controls. Data is approximately 47GB. 
 
 ### Dataset Citation
 If you use this data or code in your research, please cite the original dataset:
